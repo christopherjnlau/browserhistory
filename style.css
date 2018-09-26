@@ -1,8 +1,16 @@
 body {
+  font-family: Open , sans-serif;
+  color: darkblue;
+  margin: 10px 50px 10px 50px;
   background-color: ivory;
-  color: Darkblue 
-  margin: 10px 50px 50px 10px;
 
 }
 
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Font+Name">;
+h1, h2 {
+  font-family: Oswald;
+}
+
+img {
+  float: left;
+  margin-right: 15px;
+}
