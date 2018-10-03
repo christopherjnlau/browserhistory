@@ -1,48 +1,7 @@
 body {
-  font-family: Open , sans-serif;
-  color: darkblue;
-  margin: 10px 50px 10px 50px;
-  background-color: ivory;
-
+  margin: 50px 0px 0px 0px;
 }
 
-h1, h2 {
-  font-family: Oswald;
-}
-
-img {
-  float: left;
-  margin-right: 15px;
-}
-
-.left {
-  float: left;
-  padding: 0px 0px 0px 75px;
-  width: 300px;
-}
-
-.right {
-  float: left;
-  padding: 0px 0px 0px 75px;
-  width: 300px;
-}
-
-.center {
-  float: left;
-  padding: 0px 0px 0px 75px;
-  width: 300px;
-}
-
-#nav a {
-margin: 10px 50px 10px 150px;
-}
-
-#nav ul {
-padding: 0px;
-  margin: 0px;
-  list-style-type: none;
-}
-
-#nav li {
-display: inline
+h1 {
+  color: #4183C4
 }
